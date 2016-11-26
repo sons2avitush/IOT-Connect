@@ -1,0 +1,12 @@
+{
+	"name":"IOTConnect",
+	"version":"1.0.0",
+	"description":"ESP Host Module",
+	"main":"server.js",
+	"author":"Aviral Verma",
+	"dependencies":{
+		"socket.io":"*",
+		"express":"*",
+		"websocket":"*"
+	}
+}
